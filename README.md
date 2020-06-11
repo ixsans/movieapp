@@ -1,6 +1,6 @@
-# bwa_flutix
+# Movie App
 
-A new Flutter project.
+A simple movie ticket booking simulation app build using Flutter with Bloc Architecture
 
 ## Getting Started
 
